@@ -1,0 +1,10 @@
+{
+    "SUCCESS": "Success!",
+    "INTERNAL_SERVER_ERROR":"Internal server error",
+    "RESET_PASSWORD_MAIL_SEND":"Reset Password email Link has been sent",
+    "TRY_AGAIN": "Oops! Something went wrong. Please try again",
+    "USER_STATUS_UPDATED_SUCCESS":"User status updated Successfully",
+    "USER_STASTUS_NOT_UPDATED":"User status updation failed",
+    "YOUR_ACCOUNT_BLOCKED":"Your account is blocked please contact admin",
+    "USER_NOT_FOUND":"User Not Found"
+}
